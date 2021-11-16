@@ -7,6 +7,7 @@ namespace rz_vs2019_GitDemo111
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Oranges");
         }
     }
 }
