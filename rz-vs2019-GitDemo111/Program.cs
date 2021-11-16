@@ -8,6 +8,7 @@ namespace rz_vs2019_GitDemo111
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Oranges");
+            Console.WriteLine("Apples");
         }
     }
 }
